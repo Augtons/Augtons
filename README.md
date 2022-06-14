@@ -2,11 +2,11 @@
 
 <hr>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=augtons&show_icons=true&theme=cobalt" alt="✨ Augtons's stars ✨" height="180em"  />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augtons&theme=cobalt" height="180em" />
+
+![](https://github-readme-stats.vercel.app/api?username=augtons&show_icons=true&theme=cobalt)
+    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=augtons&theme=cobalt)
   
-</div>
 
 <hr>
 
